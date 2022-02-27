@@ -3,6 +3,25 @@
 Interview Assignment
 
 
-Check the live web version of the app created using flutter.#H1
+This app works in Android, iOS and works as website also.
 
-[Click Here](https://astrotak.web.app "AstroTak WebApp")
+To run the app :
+
+=> Have a Android Studio with flutter configured.
+
+=> Open the project in the Android Studio.
+
+=> Open "pubspec.yaml" and get packages then run, That's all.
+
+Check Webapp
+
+=>
+
+https://artsofchicagomuseum.web.app/
+
+
+Check the live web version of the app created using flutter.
+
+=>
+
+[https://astrotak.web.app](https://astrotak.web.app, "AstroTak WebApp")
