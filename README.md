@@ -13,11 +13,6 @@ To run the app :
 
 => Open "pubspec.yaml" and get packages then run, That's all.
 
-Check Webapp
-
-=>
-
-https://artsofchicagomuseum.web.app/
 
 
 Check the live web version of the app created using flutter.
