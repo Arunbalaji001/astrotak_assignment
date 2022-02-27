@@ -19,4 +19,4 @@ Check the live web version of the app created using flutter.
 
 =>
 
-[https://astrotak.web.app](https://astrotak.web.app, "AstroTak WebApp")
+[https://astrotak.web.app](https://astrotak.web.app "AstroTak WebApp")
